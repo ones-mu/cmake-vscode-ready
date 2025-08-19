@@ -113,6 +113,14 @@
     "ctime": "cpp",
     "ratio": "cpp",
     "stack": "cpp",
-    "fstream": "cpp"
+    "fstream": "cpp",
+    "coroutine": "cpp",
+    "list": "cpp",
+    "semaphore": "cpp",
+    "stop_token": "cpp",
+    "thread": "cpp",
+    "condition_variable": "cpp",
+    "future": "cpp",
+    "mutex": "cpp"
   }
 }

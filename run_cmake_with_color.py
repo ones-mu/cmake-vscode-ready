@@ -4,7 +4,7 @@ import multiprocessing
 import sys
 from colorama import init, Fore, Back, Style
 
-# 初始化colorama（自动处理Windows上的颜色支持）
+# 初始化colorama
 init(autoreset=True)
 
 def print_header(message):
